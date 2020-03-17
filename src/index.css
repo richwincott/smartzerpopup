@@ -1,8 +1,12 @@
+@font-face {
+  font-family: 'Gotham Book';
+  src: url('./assets/fonts/GOTHAM-BOOK.TTF') format('ttf'), 
+    url('./assets/fonts/GOTHAM-BOOK.WOFF') format('woff');
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Gotham Book', Tahoma, Geneva, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
