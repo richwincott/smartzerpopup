@@ -2,11 +2,11 @@ import React, { Component } from 'react';
 import { Row, Col, Modal, Carousel, Button } from 'react-bootstrap';
 import './App.css';
 import ra from './assets/img/right_arrow.svg';
-import a from './assets/img/jd_349386_a.webp';
-import b from './assets/img/jd_349386_b.webp';
-import c from './assets/img/jd_349386_c.webp';
-import d from './assets/img/jd_349386_d.webp';
-import e from './assets/img/jd_349386_e.webp';
+import a from './assets/img/jd_349386_a.jpg';
+import b from './assets/img/jd_349386_b.jpg';
+import c from './assets/img/jd_349386_c.jpg';
+import d from './assets/img/jd_349386_d.jpg';
+import e from './assets/img/jd_349386_e.jpg';
 import v from './assets/video/9b17df22-bc0c-49cb-b2dc-dcf7989142ac.mp4';
 
 const ASSET_TYPE = {
